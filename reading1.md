@@ -16,3 +16,5 @@ Tools to use
 5. Canvas
 6. Zoom
   
+I used the following script in todays lab
+(insert website here)
