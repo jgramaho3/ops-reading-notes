@@ -2,6 +2,8 @@
 
 ## Ops Readings 
 
+I believe that to be able to learn how to code you must first understand what the different tools that you will use are. Understanding how a computer works is important because you will use the computer to learn and input code. 
+
 ## Readings #3
 
 **What is a computer** 
@@ -19,6 +21,10 @@
 : The output process is dependent on the type of computer, if it is a computer with a display it is usually on the display.
 
 I watched the following Video to describe what a computer is (https://www.youtube.com/watch?v=mCq8-xTH7jA&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=4) 
+
+## Things I want to learn more about 
+
+
 
 
 
