@@ -18,4 +18,8 @@
 **- Output the Results**
 : The output process is dependent on the type of computer, if it is a computer with a display it is usually on the display.
 
+I watched the following Video to describe what a computer is (https://www.youtube.com/watch?v=mCq8-xTH7jA&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=4) 
+
+
+
    
