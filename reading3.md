@@ -20,7 +20,7 @@ I believe that to be able to learn how to code you must first understand what th
 **- Output the Results**
 : The output process is dependent on the type of computer, if it is a computer with a display it is usually on the display.
 
-I watched the following Video to describe what a computer is (https://www.youtube.com/watch?v=mCq8-xTH7jA&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=4) 
+I watched the following Video to describe what a computer is [What is a computer video](https://www.youtube.com/watch?v=mCq8-xTH7jA&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=4) 
 
 
 **Case Study: China's Spy Chip**
