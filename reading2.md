@@ -36,7 +36,8 @@ I watched the following Video to describe what a computer is [What is a computer
 4. How were investigators able to trace the chips back to the source?
    The investigators were able to fall back and find out where the devices came from and cross reference their inventoru to pin point that they had come from specific places.
 
-   I used the case study to get the answers: [China's Spy Chip](https://web.archive.org/web/20190330085155/https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies) 
+   I used the case study to get the answers:
+     - [China's Spy Chip](https://web.archive.org/web/20190330085155/https://www.bloomberg.com/news/features/2018-10-04/the-big-hack-how-china-used-a-tiny-chip-to-infiltrate-america-s-top-companies) 
 
 ## Things I want to learn more about 
 
