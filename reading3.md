@@ -5,7 +5,7 @@
 **statement:**
   Learning how to disassemble and assemble a laptop is beneficial because as you work in the field of coding you will probably want to upgrade your computer in the future. I also think itllhelp you because you will be able to understand how computers work for the purpose of resolving issues that you run into.  
 
-## Reading Class 02: Build A Computer
+## Reading Module 02: Build A Computer
 
 **[WikiHow - How to Build a PC](https://www.wikihow.com/Build-a-Computer)**
 
