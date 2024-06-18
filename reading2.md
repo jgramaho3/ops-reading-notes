@@ -4,7 +4,7 @@
 
 I believe that to be able to learn how to code you must first understand what the different tools that you will use are. Understanding how a computer works is important because you will use the computer to learn and input code. 
 
-## Readings #2
+## Readings Mod #1
 
 **What is a computer** 
 
