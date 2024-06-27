@@ -3,10 +3,9 @@
 ## Ops Reading Opening Statement
 
 **Opening Statement:**
+I believe it is important to understand what happens when you boot up a computer because you learn the terms and lingo that is used like BIOS and CMOS. Additionally, you also spend time learning about the process and if you run into issues you are able to resolve them due to the fact that you have an understanding of what is supposed to happen so you can do things to make it happen.
 
-
-
-### [Reading](https://github.com/jgramaho3/ops-reading-notes/blob/main/reading1.md?plain=1) Questions: 
+## [Reading](https://github.com/jgramaho3/ops-reading-notes/blob/main/reading1.md?plain=1) What is BIOS Questions: 
 
 1. What is the BIOS?
 A: The BIOS stands for Basic Input Output System, is a fundamental component of a computers firmware, with instructions for the system to boot up and initialize hardware components during the startup process. It is an integral part of the motherboard and is stored in a non-volatile memory chip.
