@@ -8,5 +8,6 @@ This is my Ops reading Notes Repo.
 
 [reading 3](./reading3.md) Module 2: Build a Computer
 
-[reading 4](./reading4.md) Module 4: What is BIOS 
+[reading 4](./reading4.md) Module 3: What is BIOS 
 
+[reading 5](./reading5.md) Module 4: Installing Ubuntu Linux
